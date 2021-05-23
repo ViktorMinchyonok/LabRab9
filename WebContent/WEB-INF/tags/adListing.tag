@@ -14,7 +14,7 @@
 		<tr bgcolor="#cccccc" align="center">
 			<td>
 				Тема объявления<br>
-				<a href="<c:url value="${pageContext.request.requestURL}"><c:param name="sort" value="subject"/><c:param name="dir" value="asc"/></c:url>"><img src="<c:url value="/resources/asc.png"/>" width="20" height="19" border="0" align="absmiddle"></a>
+				<a href="<c:url value="${pageContext.request.requestURL}"><c:param name="sort" value="subject"/><c:param name="dir" value="asc"/></c:url>"><img src="<c:url value="https://static.vecteezy.com/system/resources/previews/000/512/642/non_2x/vector-descending-bar-glyph-black-icon.jpg"/>" width="20" height="19" border="0" align="absmiddle"></a>
 				<a href="<c:url value="${pageContext.request.requestURL}"><c:param name="sort" value="subject"/><c:param name="dir" value="desc"/></c:url>"><img src="<c:url value="https://icons-for-free.com/iconfiles/png/512/diagram+graph+line+report+statistics+up+icon+icon-1320085907037055128.png"/>" width="20" height="19" border="0" align="absmiddle"></a>
 			</td>
 			<td>
@@ -28,7 +28,7 @@
 					<c:param name="sort" value="author"/>
 					<c:param name="dir" value="desc"/>
 
-				</c:url>"><img src="<c:url value="/resources/asc.png"/>" width="20" height="19" border="0" align="absmiddle"></a>
+				</c:url>"><img src="<c:url value="https://static.vecteezy.com/system/resources/previews/000/512/642/non_2x/vector-descending-bar-glyph-black-icon.jpg"/>" width="20" height="19" border="0" align="absmiddle"></a>
 			</td>
 			<td>
 				Дата последнего изменения<br>
@@ -41,7 +41,7 @@
 						<c:param name="sort" value="date"/>
 						<c:param name="dir" value="desc"/>
 
-					</c:url>"><img src="<c:url value="/resources/asc.png"/>" width="20" height="19" border="0" align="absmiddle"></a>
+					</c:url>"><img src="<c:url value="https://static.vecteezy.com/system/resources/previews/000/512/642/non_2x/vector-descending-bar-glyph-black-icon.jpg"/>" width="20" height="19" border="0" align="absmiddle"></a>
 			</td>
 		</tr>
 		<%-- Организовать цикл по всем объявлениям из коллекции adListing --%>
