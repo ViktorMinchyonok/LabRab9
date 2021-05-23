@@ -23,7 +23,7 @@
 					<c:param name="sort" value="author"/>
 					<c:param name="dir" value="asc"/>
 
-				</c:url>"><img src="<c:url value="/resources/desc.png"/>" width="20" height="19" border="0" align="absmiddle"></a>
+				</c:url>"><img src="<c:url value="https://icons-for-free.com/iconfiles/png/512/diagram+graph+line+report+statistics+up+icon+icon-1320085907037055128.png"/>" width="20" height="19" border="0" align="absmiddle"></a>
 				<a href="<c:url value="${pageContext.request.requestURL}">
 					<c:param name="sort" value="author"/>
 					<c:param name="dir" value="desc"/>
@@ -36,7 +36,7 @@
 					<c:param name="sort" value="date"/>
 					<c:param name="dir" value="asc"/>
 
-					</c:url>"><img src="<c:url value="/resources/desc.png"/>" width="20" height="19" border="0" align="absmiddle"></a>
+					</c:url>"><img src="<c:url value="https://icons-for-free.com/iconfiles/png/512/diagram+graph+line+report+statistics+up+icon+icon-1320085907037055128.png"/>" width="20" height="19" border="0" align="absmiddle"></a>
 					<a href="<c:url value="${pageContext.request.requestURL}">
 						<c:param name="sort" value="date"/>
 						<c:param name="dir" value="desc"/>
